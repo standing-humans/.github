@@ -11,6 +11,9 @@ Standing Humans is a humanitarian, non-political organization dedicated to foste
 **Non-Political Stance**: Standing Humans maintains strict political neutrality, focusing exclusively on humanitarian outcomes rather than political positions. Our work transcends political boundaries to serve human needs first and foremost.
 
 ## Our Story
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithGaza](https://raw.githubusercontent.com/standing-humans/StandWithGaza/main/badges/StandWithGaza.svg)](https://github.com/standing-humans/StandWithGaza/blob/main/docs/README.md)
+
 
 Standing Humans was inspired by the groundbreaking work of the [StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) project[4], which demonstrated how the open-source community could mobilize to support humanitarian causes during times of crisis. Following this model of community-driven humanitarian action, we created our first major initiative: [StandWithGaza](https://github.com/standing-humans/StandWithGaza)[5].
 
